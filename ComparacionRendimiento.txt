@@ -1,0 +1,2 @@
+Comparación de rendimiento:
+A la hora de probar los programas se evidencia que la diferencia de rendimiento es bastante notable, esto va de la mano que de por si C es mas rapido que python y con estos programas se evidencia ya que al ejecutar el programa en C muestra los resultados de los procesos de manera casi instantanea mostrando que procesos tuvieron un cambio de prioridad mientras que en python los procesos se van ejecutando de manera mas secuencial y no tan instantaneamente.
