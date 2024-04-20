@@ -128,7 +128,7 @@ int main() {
         ageProcesses(queues, LEVELS);
     }
 
-    for (int i = 0; i < LEVELS; i++) {  // Liberar memoria de las colas
+    for (int i = 0; i < LEVELS; i++) {  
         free(queues[i]);
     }
 
